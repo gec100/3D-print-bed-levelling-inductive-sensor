@@ -1,4 +1,4 @@
-#With LJ18A3-8-Z/BX sensor#
+# With LJ18A3-8-Z/BX sensor #
 
 ![Image](https://www.diyelectronics.co.za/store/6088-thickbox_default/inductive-sensor-probe-lj18a3-8-zbx.jpg)
 
