@@ -1,6 +1,6 @@
 # With LJ18A3-8-Z/BX sensor #
 
-![Image](https://www.diyelectronics.co.za/store/6088-thickbox_default/inductive-sensor-probe-lj18a3-8-zbx.jpg)
+![LJ18A3-8-Z/BX sensor](https://3dmarkt.at/images/product_images/info_images/inductive_proximity_sensor_lj18a3-8-zby.jpg)
 
 Had this sensor for long time working great on my custom made prusa clone and now I'm building a new corexy printer around SKR 1.4 Turbo board on 24V.
 
