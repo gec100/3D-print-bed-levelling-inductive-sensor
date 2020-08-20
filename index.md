@@ -1,4 +1,6 @@
-*With LJ18A3-8-Z/BX sensor*
+#With LJ18A3-8-Z/BX sensor#
+
+![Image](https://www.diyelectronics.co.za/store/6088-thickbox_default/inductive-sensor-probe-lj18a3-8-zbx.jpg)
 
 Had this sensor for long time working great on my custom made prusa clone and now I'm building a new corexy printer around SKR 1.4 Turbo board on 24V.
 
