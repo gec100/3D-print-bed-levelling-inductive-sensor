@@ -1,3 +1,5 @@
+*With LJ18A3-8-Z/BX sensor*
+
 Had this sensor for long time working great on my custom made prusa clone and now I'm building a new corexy printer around SKR 1.4 Turbo board on 24V.
 
 I'm not a electronics engineer but I can find my way around.
